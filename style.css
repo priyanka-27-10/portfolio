@@ -1,0 +1,40 @@
+@media (max-width: 600px) {
+    header {
+        padding: 20px;
+    }
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    background: linear-gradient(to right, #2e7d32, #66bb6a);
+    color: white;
+    padding: 50px 20px;
+}
+
+section {
+    padding: 40px 20px;
+}
+
+h2 {
+    color: #2e7d32;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 8px 0;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    padding: 15px;
+}
